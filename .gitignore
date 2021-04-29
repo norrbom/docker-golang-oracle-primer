@@ -1,0 +1,7 @@
+*.swp
+/.idea
+*.tgz
+.DS_Store
+/.vscode
+*.lock
+.scannerwork
